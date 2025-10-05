@@ -15,7 +15,8 @@ This is a simple beginner-friendly Spider-Man website using HTML and CSS.
 ## Implementation Guide
 
 1. Clone the repository or download the files.  
-2. Open `index.html` in your web browser.  
+2. Open `spiderman.html` in your web browser.  
 3. Enjoy the webpage!
+
 
 
